@@ -6,7 +6,9 @@
   <p> I'm still getting the hang of it clearly but one day I'll look back at this and be proud! </p>
 </html>
 
-<strong>jQuery<strong>
+BootStrap!
+
+jQuery
 <script> $(document).ready(function(){
 });
 
