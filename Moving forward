@@ -1,7 +1,13 @@
 <!Doctype html>
 <html>
-<h1>Just writing what I've learned as I go!</h1>
+<h1 style="text-color: red";>Just writing what I've learned as I go!</h1>
  <p>At the current moment I have learned the basics to CSS and HTML</p>
  <h3>Practice makes perfect!</h3>
   <p> I'm still getting the hang of it clearly but one day I'll look back at this and be proud! </p>
 </html>
+
+<strong>jQuery<strong>
+<script> $(document).ready(function(){
+});
+
+
